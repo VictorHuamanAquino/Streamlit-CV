@@ -1,0 +1,21 @@
+.texto-primario {
+    text-align: left;
+    color: #ffffff !important;
+    font-size: 3em !important; 
+    font-family: 'Times New Roman' !important;
+    font-weight: bold !important;
+}
+
+.texto-secundario {
+    color: #555555 !important;
+    font-size: 1.2em;
+    font-family: 'Times New Roman', sans-serif;
+    font-style: italic;
+}
+
+.texto-normal {
+    color: #333333 !important;
+    font-size: 1em;
+    font-family: 'Times New Roman', sans-serif;
+    line-height: 1.5;
+}
